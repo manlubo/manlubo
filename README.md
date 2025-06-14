@@ -1,4 +1,4 @@
-![mablubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=manlubo&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manlubo&layout=compact)](https://github.com/manlubo/github-readme-stats)
 
 
 <!--
