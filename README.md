@@ -1,10 +1,16 @@
 ## Top Languages
 
 <div align="center">
+  
+<a href="https://github.com/manlubo">
+  <img src="https://github.com/manlubo.png?size=200" width="0" height="0">
+</a>
 
-<img src="https://img.shields.io/github/languages/top/manlubo/manlubo?color=000000&label=Top%20Language&style=for-the-badge" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="0" height="0">
 
-<img src="https://img.shields.io/github/languages/count/manlubo/manlubo?color=000000&label=Languages&style=flat-square" />
+<a href="https://github.com/manlubo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manlubo&layout=compact&theme=dark&hide_border=true" />
+</a>
 
 </div>
 
