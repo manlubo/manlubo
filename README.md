@@ -1,15 +1,13 @@
 ## Top Languages
 
 <div align="center">
-  
+
 <a href="https://github.com/manlubo">
-  <img src="https://github.com/manlubo.png?size=200" width="0" height="0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manlubo&theme=github_dark" height="200"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="0" height="0">
-
 <a href="https://github.com/manlubo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manlubo&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manlubo&theme=github_dark" height="200"/>
 </a>
 
 </div>
