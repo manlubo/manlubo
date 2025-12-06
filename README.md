@@ -3,11 +3,11 @@
 <div align="center">
 
 <a href="https://github.com/manlubo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manlubo&theme=github_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manlubo&theme=monokai" height="200"/>
 </a>
 
 <a href="https://github.com/manlubo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manlubo&theme=github_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manlubo&theme=monokai" height="200"/>
 </a>
 
 </div>
