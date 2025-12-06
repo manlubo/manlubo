@@ -1,24 +1,7 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manlubo&label=Profile%20Views&color=black&style=flat-square" />
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img 
-  src="https://github-readme-metrics.vercel.app/user?username=manlubo&template=classic&theme=dark&config.timezone=Asia%2FSeoul"
-  width="600"
-/>
-
----
-
 ## GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=manlubo&theme=black" />
+  <img src="https://streak-stats.demolab.com?user=manlubo&theme=black-ice&hide_border=true" />
 </div>
 
 ---
@@ -38,3 +21,13 @@
 </div>
 
 ---
+
+
+## Top Languages
+
+<div align="center">
+  <img 
+    src="https://github-readme-metrics.vercel.app/user/languages?username=manlubo&theme=dark&config.timezone=Asia%2FSeoul" 
+    width="600"
+  />
+</div>
