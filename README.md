@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manlubo&theme=github-dark&area=true&color=ffffff&line=ffffff&point=888888" />
 </div>
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manlubo&theme=github_dark" />
