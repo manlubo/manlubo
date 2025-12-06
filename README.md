@@ -1,3 +1,15 @@
+## Top Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/github/languages/top/manlubo/manlubo?color=000000&label=Top%20Language&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/languages/count/manlubo/manlubo?color=000000&label=Languages&style=flat-square" />
+
+</div>
+
+---
+
 ## GitHub Streak
 
 <div align="center">
@@ -18,16 +30,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manlubo&theme=onestar&no-frame=true&row=1&margin-w=15" />
-</div>
-
----
-
-
-## Top Languages
-
-<div align="center">
-  <img 
-    src="https://github-readme-metrics.vercel.app/user/languages?username=manlubo&theme=dark&config.timezone=Asia%2FSeoul" 
-    width="600"
-  />
 </div>
